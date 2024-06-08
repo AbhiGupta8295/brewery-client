@@ -81,6 +81,13 @@ const Search = () => {
           <option value="micro">Micro</option>
           <option value="nano">Nano</option>
           <option value="regional">Regional</option>
+          <option value="brewpub">Brewpub</option>
+          <option value="large">Large</option>
+          <option value="planning">Planning</option>
+          <option value="bar">Bar</option>
+          <option value="contract">Contract</option>
+          <option value="proprietor">Proprietor</option>
+          <option value="closed">Closed</option>
         </select>
         <button type="submit">Search by Type</button>
       </form>
